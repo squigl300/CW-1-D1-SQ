@@ -1,5 +1,7 @@
+package com.myapp;
 import static org.junit.Assert.*;
 import org.junit.Test;
+import com.myapp.Dec2Hex;
 
 /**
  * Test class for Dec2Hex. It uses JUnit4 to run tests against the convertToHex method.
