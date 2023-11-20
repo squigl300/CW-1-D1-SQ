@@ -1,6 +1,7 @@
 package com.myapp; // Package name added to address SonarQube issue about unnamed package
 
 import java.util.logging.Logger; // Import the Logger
+import com.myapp.Dec2Hex;
 
 /**
  * The Dec2Hex class provides a method to convert a decimal number to its hexadecimal representation.
